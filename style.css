@@ -1,0 +1,23 @@
+body{
+    background-image: url(img/rpg-maker-unite-capa.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+
+}
+
+.topbar {
+    display: flex;
+    justify-content: center;
+    
+    width: 100vw;
+    height: 75px;
+    background-color: black;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+.titulo {
+    display: flex;
+    margin-top: 15px;
+    color: aliceblue;
+    font-family: Poppins;
+}
